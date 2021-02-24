@@ -1,4 +1,4 @@
-This task evaluates the candidate's skills in `React`.
+Netguru This task evaluates the candidate's skills in `React`.
 
 # React Notes App Task
 
